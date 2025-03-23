@@ -41,10 +41,10 @@ A* algoritması, en hızlı rotayı bulmak için kullanılmıştır. Çalışma 
 # Neden bu algoritmalar?
 
 # BFS
-, düğüm sayısına göre en kısa yolda dolaşır. Dolayısıyla en az aktarmalı rotayı hesaplamak için uygun bir algoritmadır.
+düğüm sayısına göre en kısa yolda dolaşır. Dolayısıyla en az aktarmalı rotayı hesaplamak için uygun bir algoritmadır.
 
 # A*
-, ağırlıklı kenarları (bu yazılımda süre oluyor) dikkate alarak optimal çözümler üretir. Dolayısıyla en kısa süreyi hesaplamak için uygun bir algoritmadır.
+ağırlıklı kenarları (bu yazılımda süre oluyor) dikkate alarak optimal çözümler üretir. Dolayısıyla en kısa süreyi hesaplamak için uygun bir algoritmadır.
 
 
 # Test Sonuçları

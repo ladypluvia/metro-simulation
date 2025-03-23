@@ -1,5 +1,5 @@
 # Metro Simulation
-Bir metro ağında iki istasyon arasındaki en kısa ve en az aktarmalı rotayı hesaplayan bir simülasyon yazılımıdır.
+Bu proje, bir metro ağı üzerinde en hızlı ve en az aktarmalı rotayı bulmayı amaçlayan bir rota optimizasyon sistemidir.
 
 # Kullanılan Teknolojiler
 -> Python: Algoritma yazılması ve veri yapılarının oluşturulması için kullandığım yazılımın temel dili olarak kullanılmıştır.
